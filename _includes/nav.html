@@ -18,11 +18,15 @@
                 <li>
                     <a href="{{ site.baseurl }}/">Home</a>
                 </li>
-                {% for page in site.pages %}{% if page.title %}
-                <li>
-                    <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-                </li>
-                {% endif %}{% endfor %}
+                {% assign sortedsitepages = site.pages | sort:'order' %}
+                    {% for sortedsitepage in sortedsitepages %}
+                        {% if sortedsitepage.placement == "top" %}
+                        <li>
+                            <a href="{{ sortedsitepage.permalink }}"> {{ sortedsitepage.title }} </a>
+                        </li>
+                        {% endif %}
+
+                    {% endfor %}
             </ul>
         </div>
         <!-- /.navbar-collapse -->
