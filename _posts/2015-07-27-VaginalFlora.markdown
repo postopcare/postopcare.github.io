@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  Vaginal Flora
-date:   2015-07-26 20:00
+date:   2015-07-27 20:00
 categories: health
 desc: A discussion about the vaginal floral environment
 tags: flora feminine hygiene wash
+header-img: "img/post-bg-flora.jpg"
 ---
  
 #Nobody likes a smelly vag, not even ourselves #
