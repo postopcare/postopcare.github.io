@@ -33,8 +33,8 @@ You can buy those at Walmart for less than $5.
 
 * Mental Well-being -- we can be further in harmony with our new anatomy after our painful rebirth, be more confident and not be so paranoid everyone is smelling fish when we enter the room.
 
-* Better physical well-being -- yes, not having a rash or stinky discharge is pretty nice, plus we don't have to scrub our undies that hard. whew. 
-as
+* Better physical well-being -- yes, not having a rash or stinky discharge is pretty nice, plus we don't have to scrub our undies that hard. whew.
+
 * Better love life -- most lovers prefer ladybits which don't smell offensive. 
 
 ##When should we start or when is it okay to use a vaginal wash? ##
