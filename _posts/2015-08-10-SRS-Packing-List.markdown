@@ -2,11 +2,16 @@
 layout: post
 title:  "SRS packing List"
 date:   2015-08-10 23:59:59
-categories: 
+categories: surgery
 tags: packing preparation
 desc: Quick Post about a packing list for SRS	
 header-img: "img/gcpl.jpg"
 ---
+
+
+
+
+
 ##So it's almost time to leave for SRS and you're wondering what's good to pack? The following is a generic list of stuff most postop persons found useful and neccessary on their journey to anatomial womanhood##
 
 
