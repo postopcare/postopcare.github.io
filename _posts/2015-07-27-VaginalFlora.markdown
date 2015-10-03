@@ -8,7 +8,7 @@ tags: flora feminine hygiene wash
 header-img: "img/post-bg-flora.jpg"
 ---
  
-#Nobody likes a smelly vag, not even ourselves #
+#Nobody likes a smelly vag, not even ourselves
 
 Our newly installed neovagina and neovulva do not have the flora native to natal vulvas and ladybits. 
 

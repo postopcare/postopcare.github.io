@@ -12,8 +12,7 @@ header-img: "img/gcpl.jpg"
 
 
 
-##So it's almost time to leave for SRS and you're wondering what's good to pack? The following is a generic list of stuff most postop persons found useful and neccessary on their journey to anatomial womanhood##
-
+##So it's almost time to leave for SRS and you're wondering what's good to pack? The following is a generic list of stuff most postop persons found useful and neccessary on their journey to anatomial womanhood
 
 
 ###Tech Stuff###
