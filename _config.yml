@@ -11,6 +11,7 @@ github_username:  "postopcare"
 markdown: kramdown
 highlighter: pygments
 permalink: pretty
-paginate: 5
+paginate: 15
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-
+gems: [jekyll-paginate]
+paginate_path: "/blog/page:num"

@@ -3,7 +3,6 @@ layout: post
 title:  "Ice Cream Cold Compress"
 date:   2015-08-01 23:59:59
 categories: Orchi, surgery
-tags: hello world
 desc: Quick Post about cold compress postop / post orchi
 tags: orchi
 header-img: "img/post-bg-icecream.jpg"
