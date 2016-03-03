@@ -11,5 +11,4 @@ author: "/u/Suporn2015SRS"
 ## A redditor writes about her experience having SRS with Dr Suporn 
 [original source](https://www.reddit.com/r/asktransgender/comments/438lbo/my_experience_having_srs_with_dr_suporn_last_year/)
 
-### See the static files: 
-<a href="{{ "/static_assets/Suporn2015.pdf" | prepend: site.baseurl }}">Attached file</a>
+### See the static files [here](http://postopcare.github.io/static_assets/Suporn2015.pdf) 
