@@ -4,7 +4,7 @@ title:  "SRS packing List"
 date:   2015-08-10 23:59:59
 categories: surgery
 tags: packing preparation
-desc: Quick Post about a packing list for SRS	
+desc: Quick Post about a packing list for SRS
 header-img: "img/gcpl.jpg"
 ---
 
@@ -20,18 +20,18 @@ header-img: "img/gcpl.jpg"
 
 * A tablet or a laptop to communicate with folks back home. If traveling light, at least a mobile.
 
-* Don't forget to bring the required power socket adapters and voltage transformers so that your tech stays juiced. It is very miserable running out of battery energy when you are down wounded. 
+* Don't forget to bring the required power socket adapters and voltage transformers so that your tech stays juiced. It is very miserable running out of battery energy when you are down wounded.
 
-* Some women chose to bring a gaming console, especially if they weren't traveling alone. I personally enjoyed playing the XBox with my friend from Europe who had brought her own xBox along. Also, I kicked her butt at Street Fighter, thanks to my Asian genes /sarcasm. 
+* Some women chose to bring a gaming console, especially if they weren't traveling alone. I personally enjoyed playing the XBox with my friend from Europe who had brought her own xBox along. Also, I kicked her butt at Street Fighter, thanks to my Asian genes /sarcasm.
 
-* WiFi repeater if you are techy and WiFi is free. Configure it in your room before surgery though, it is not that easy focusing or doing things after surgery. 
+* WiFi repeater if you are techy and WiFi is free. Configure it in your room before surgery though, it is not that easy focusing or doing things after surgery.
 
 * A camera if shooting from your mobile phone isn't your thing. Or get one of those fancy phones with really great cameras built in.
 
 * A pair of earphones or earbuds to plug in and cancel external noise whether on the plane or in recovery or whenever it gets too stressful
 
 
-* A spare mobile phone if traveling overseas and intending to have a local SIM card 
+* A spare mobile phone if traveling overseas and intending to have a local SIM card
 
 ###Surgery Care Stuff###
 
@@ -41,12 +41,12 @@ header-img: "img/gcpl.jpg"
 
 * Neosporin or topical antiseptic which is allowed by your own doctor, to help wound recovery
 
-* A small spray-bottle capable of being refilled with betadine, for easy, effective and efficient dispensation of Betadine onto site 
+* A small spray-bottle capable of being refilled with betadine, for easy, effective and efficient dispensation of Betadine onto site
 
-* It is a Good Idea to find out the costs of lube back home, for a comparison against prices provided by the surgical facility or by a local pharmacy. 
+* It is a Good Idea to find out the costs of lube back home, for a comparison against prices provided by the surgical facility or by a local pharmacy.
 
 
-* Getting a small container around 5 inches wide can help you hold used dilators within especically if they're icky with lube . This way they won't get on your bedding or the floor or get dirty. 
+* Getting a small container around 5 inches wide can help you hold used dilators within especically if they're icky with lube . This way they won't get on your bedding or the floor or get dirty.
 
 ###Clothes###
 
