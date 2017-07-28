@@ -18,6 +18,9 @@
                 <li>
                     <a href="{{ site.baseurl }}/">Home</a>
                 </li>
+                <li>
+                    <a href="{{ site.baseurl+'/BinderFinder' }}/">Binder Finder</a>
+                </li>
                 {% assign sortedsitepages = site.pages | sort:'order' %}
                     {% for sortedsitepage in sortedsitepages %}
                         {% if sortedsitepage.placement == "top" %}
